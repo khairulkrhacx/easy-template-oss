@@ -1,6 +1,6 @@
 {
   "name": "easy-template-oss",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -12,7 +12,15 @@
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.1",
-    "easy-template-oss": "1.0.0"
+    "easy-template-oss": "1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khairulkrhacx/easy-template-oss.git"
+  },
+  "homepage": "https://twitter.com/khairulkrhacx",
+  "bugs": {
+    "url": "https://github.com/khairulkrhacx/easy-template-oss/issues"
   },
   "devDependencies": {
     "typescript": "^5",
